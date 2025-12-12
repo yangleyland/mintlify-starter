@@ -15,7 +15,7 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["index", "quickstart", "development", "changelog"]
+            "pages": ["index", "quickstart", "development"]
           },
           {
             "group": "Customization",
@@ -55,6 +55,16 @@
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
             ]
+          }
+        ]
+      },
+      {
+        "tab": "Changelog",
+        "groups": [
+          {
+            "group": "Changelog",
+            "icon": "calendar",
+            "pages": ["changelog"]
           }
         ]
       }
